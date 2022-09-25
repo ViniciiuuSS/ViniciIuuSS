@@ -1,4 +1,4 @@
-### Olá!👋 Sou o Vinicius estudante de ADS (Análise e desenvolvimento de sistemas) no Senac, tenho 21 anos, busco sempre estar melhorando meus conhecimentos em programação para um dia ser um programador TOP!  😎😎😁
+### Desenvolvedor Júnior.
 
 <div align="center">
   <a href="https://github.com/ViniciiuuSS">
