@@ -1,6 +1,6 @@
-<div style="font-family:monospace;background-color:#071927;">
-  <b style="color:white">### Desenvolvedor Júnior.</b>
-
+<div style="font-family: monospace;background-color:#071927;">
+  <b style="color:white">Desenvolvedor Júnior</b>
+  </br> 
   <div align="center">
     <a href="https://github.com/ViniciiuuSS">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciiuuSS&show_icons=false&theme=highcontrast&include_all_commits=true&count_private=true&bg_color=00000000"/>
