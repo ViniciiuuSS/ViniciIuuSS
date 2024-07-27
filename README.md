@@ -1,5 +1,5 @@
 <div style="font-family: monospace;background-color:#071927;">
-  <b style="color:white">Desenvolvedor Júnior</b>
+  <b style="color:white">Desenvolvedor Full Stack</b>
   </br> 
   <div align="center">
     </br>
