@@ -22,6 +22,9 @@
     </br>
     <div> 
     <a href="https://www.youtube.com/channel/UC9H43BBm7rEi2wtGAwKieIA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://vinicius-guedes-portifolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfólio">
+</a>
     
 
 
