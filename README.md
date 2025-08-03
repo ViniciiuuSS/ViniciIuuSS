@@ -29,13 +29,4 @@
 
 
   </div>
-
-  <p align="center"> 
-
-   ## Total de Visitas no perfil :detective: <br>
-   <p align="center"> 
-     <img alingn="center" src="https://profile-counter.glitch.me/ViniciiuuSS/count.svg" />
-   </p>
-
-  </p>
 </div>
